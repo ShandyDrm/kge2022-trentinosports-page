@@ -8,34 +8,35 @@ This is a GitHub page for the Knowledge Graph Engineering project for the Fall 2
 
 ## Materials
 
-### Purpose
+### GitHub Repository
+
+[https://github.com/NielsenErik/Trentino-Sports](https://github.com/NielsenErik/Trentino-Sports)
+
+### Report
+
+[Trentino Sports Report](https://github.com/NielsenErik/Trentino-Sports/blob/main/Documentation/trentino_sports_presentations.pdf)
+
+### Presentation
+
+[Trentino Sports Presentation](https://github.com/NielsenErik/Trentino-Sports/blob/main/Documentation/Trentino-Sports-8v0-Trentino_sports_presentations.pptx)
+
+## Purpose
 
 The purpose of this knowledge graph, described as a user request, is as follows:
 
 > A service which help the users to find information about sport facilities in Trentino.
 
-Thus, by using this knowledge graph, users should be able to find information regarding sport facilities in Trentino, such as the location, pricing, and opening hours.
-
-### Datasets
+## Datasets
 
 The datasets were obtained from these sources:
 * [Open Data Trentino](https://dati.trentino.it/dataset/localizzazione-impianti-sportivi-open-data)
 * [Pagine Gialle](https://www.paginegialle.it)
+* [Comune di Trento](https://www.comune.trento.it/Aree-tematiche/Sport/Impianti-sportivi)
+* [Comune di Arco](https://www.comune.arco.tn.it/Territorio/Informazioni-utili/Sport/Impianti-Sportivi)
 
-### Reference Schema
+## Reference Schemata
 
 The reference schemata were obtained from these sources:
 * [schema.org](https://schema.org)
 * [General Transit Feed Specification Ontology](https://lov.linkeddata.es/dataset/lov/vocabs/gtfs)
 
-### GitHub Repository
-
-https://github.com/NielsenErik/KGE2022-TrentinoSport
-
-### Report
-
-TBA
-
-### Presentation
-
-TBA
